@@ -4,7 +4,7 @@ I am a postdoctoral researcher at the University of Cambridge and the Alan Turin
 
 🔭 Currently, I study the role of disrupted language in schizophrenia and develop [quantitative speech markers](https://www.turing.ac.uk/research/research-projects/towards-incoherent-speech-predictor-psychosis-risk) to predict psychosis risk and clinical outcomes.
 
-In my [DPhil work](https://drive.google.com/file/d/1Qi-QxX9D-atXd6FiZy7kv0q90eVTSfGZ/view) I combined multimodal, ultra-high resolution imaging (fMRI, MRS) with brain stimulation (tDCS) and computational modelling to study plastic changes in the brain that occurr when we correct our movements ([Talk]((https://www.youtube.com/watch?v=PzwQeRFMqQI))).
+In my [DPhil work](https://drive.google.com/file/d/1Qi-QxX9D-atXd6FiZy7kv0q90eVTSfGZ/view) I combined multimodal, ultra-high resolution imaging (fMRI, MRS) with brain stimulation (tDCS) and computational modelling to study plastic changes in the brain that occurr when we correct our movements [[Talk](https://www.youtube.com/watch?v=PzwQeRFMqQI)].
     
 - 📫 nettekoven-enquiries@web.de
 - 🕊 [carobellum](https://twitter.com/carobellum)
