@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher at the University of Cambridge and the Alan Turing Institute London. I work with [Dr. Sarah Morgan](https://www.neuroscience.cam.ac.uk/directory/profile.php?SarahMorgan) and [Professor Ed Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
+I am a postdoctoral researcher at the the Brain and Mind Institute, London, Canada with Prof. Joern Diedrichsen.
+Previously, I completed a postdoc at the University of Cambridge and the Alan Turing Institute London with [Dr. Sarah Morgan](https://www.neuroscience.cam.ac.uk/directory/profile.php?SarahMorgan) and [Professor Ed Bullmore](https://www.neuroscience.cam.ac.uk/directory/profile.php?etb23).
 
 🔭 Currently, I study the role of disrupted language in schizophrenia and develop [quantitative speech markers](https://www.turing.ac.uk/research/research-projects/towards-incoherent-speech-predictor-psychosis-risk) to predict psychosis risk and clinical outcomes.
 
