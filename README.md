@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher at the the Brain and Mind Institute, London, Canada with [Prof. Joern Diedrichsen](https://www.uwo.ca/bmi/investigators/joern-diedrichsen.html).
 
-🔭 Currently, I'm investingating the cerebellar contribution to human cognition with neuroimaging. I recently developed a functional atlas for the cerebellum - check out the [paper](https://www.caroline-nettekoven.com/post/cerebellar-atlas/) and explore the [atlas](https://www.caroline-nettekoven.com/post/cerebellar-atlas/).
+🔭 Currently, I'm investingating the cerebellar contribution to human cognition with neuroimaging. I recently developed a functional atlas for the cerebellum - check out the [paper](https://doi.org/https://doi.org/10.1038/s41467-024-52371-w) and explore the [atlas](https://www.caroline-nettekoven.com/post/cerebellar-atlas/).
 
 🏫 Before that, I completed a postdoc at the University of Cambridge and the Alan Turing Institute London. Here, I wrote a [natural language processing algorithm](https://alan-turing-institute.github.io/netts/) that maps language as a network to predict psychosis risk and clinical outcomes [[Publication](https://www.medrxiv.org/content/10.1101/2022.02.25.22271517v1)] [[Media Coverage](https://www.medscape.com/viewarticle/972158)].
 
